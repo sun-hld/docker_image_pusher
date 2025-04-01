@@ -1,3 +1,4 @@
 redis
 mysql
 rabbitmq:management
+nacos/nacos-server:1.2.0
